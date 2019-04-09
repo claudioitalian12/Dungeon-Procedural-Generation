@@ -1,4 +1,4 @@
-# ProceduralLevelGeneration-Swift
+Dungeon-Procedural-Generation
 Swift version of the "Procedural Level Generation in Games Tutorial" by [Kim Pedersen](https://twitter.com/@twofly3) originally posted on Ray Wenderlich's site [raywenderlich.com](http://www.raywenderlich.com/).
 - Swift 5.0 update version of iosbucky: 
 https://github.com/iosbucky/ProceduralLevelGeneration-Swift
@@ -10,9 +10,6 @@ Part 1: [http://www.raywenderlich.com/49502/procedural-level-generation-in-games
 Part 2: [http://www.raywenderlich.com/51786/procedural-level-generation-in-games-part-2](http://www.raywenderlich.com/51786/procedural-level-generation-in-games-part-2)
 
 ---
-**Modifications**
-
-Adopted code from Objective-C to Swift 1.2
 
 **What is the License for the Tutorial Source Code?**
 
